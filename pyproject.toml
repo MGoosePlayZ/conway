@@ -1,0 +1,7 @@
+[project]
+name = "conways-game-of-life"
+version = "0.1.0"
+description = "Conway's Game of Life written in python with pygame"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
